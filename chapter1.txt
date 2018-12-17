@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Chapter 1
 
 This is the first chapter in our book.
@@ -14,9 +13,7 @@ In the kingdom of wakanda, there lived a prince whose desire was to be a great w
 
 Hi this is Ayooluwa Oyewo, being part of LevelUp Academy is one of the best decisions i have ever made, its being nice
 learning from experienced Software Engineers. I am assured of better days ahead, thanks for the opportunity.
-=======
 Chapter 1
 
 This is the first chapter in our book.
 today is a great day we are going to have fun
->>>>>>> 79ec7b4a744f2a4d1498a838400b9aa03add51ec
