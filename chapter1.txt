@@ -1,10 +1,8 @@
 Chapter 1
 
-<<<<<<< HEAD
 This is the first chapter in our book. 
 A man is getting into the shower just as his wife is finishing up
 her shower when the doorbell rings. 
-=======
 This is the first chapter in our book.
 HEAD
 
@@ -28,4 +26,3 @@ This is Somoye Ayotunde, you are welcome Adeyinka. Honestly LevelUp assures me o
 Many thanks for this enviable career path. I am very grateful
 
 Haryxr, It always seems impossible till it's done- Nelson Mandela.
->>>>>>> d4d2ecd647829b34a22f8b8040e086c29e3f96be
